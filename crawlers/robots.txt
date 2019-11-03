@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin
+Disallow: /Controllers
+Disallow: /Models
+Disallow: /Views
+Disallow: /Core
+Disallow: /assets
+Disallow: /config.php
+Allow: /teste.php
+Allow: /pesquisa.php
